@@ -30,4 +30,4 @@ phpunit.phar
 /phpunit.xml
 
 # Yii2 environments directory
-environments
+#environments
